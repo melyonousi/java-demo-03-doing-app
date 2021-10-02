@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Do͞oiNG</string>
+    <string name="btn_add">إظافة</string>
+    <string name="input_placeholder_descibe">صف مهمتك</string>
+    <string name="shoose_time">اختر الوقت</string>
+    <string name="shoose_Date">اختر التاريخ</string>
+    <string name="input_placeholder_date">15 – 02 – 2021</string>
+    <string name="input_placeholder_time">15:00</string>
+    <string name="e_describe_empty">اعط عنوان أو صف المهمة</string>
+    <string name="success">تم إنشاء المهمة بنجاح</string>
+    <string name="faild">فشل إنشاء المهمة</string>
+    <string name="alertMessage">هل أنت متأكد من الحذف</string>
+    <string name="alertTitle">تأكيد</string>
+    <string name="alertDelete">حذف</string>
+    <string name="alertCancel">إلغاء</string>
+    <string name="alertsuccess">تم الحذف بنجاح</string>
+    <string name="alertFiald">فشل الحذف</string>
+    <string name="btnDelete">حذف</string>
+    <string name="btnEdit">حفظ</string>
+    <string name="btnCancel">رجوع</string>
+    <string name = "alertUpdateSuccess">تم التحديث بنجاح</string>
+    <string name = "alertUpdateFaild">فشل التحديث</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name">Do͞oiNG</string>
+    <string name = "btn_add">حفظ</string>
+    <string name = "input_placeholder_descibe">صف مهمتك</string>
+    <string name = "input_placeholder_date">15 – 02 – 2021</string>
+    <string name = "input_placeholder_time">15:00</string>
+    <string name = "e_describe_empty">اعط عنوان أو صف المهمة</string>
+</resources>

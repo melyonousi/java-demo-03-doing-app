@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name">Do͞oiNG</string>
+    <string name = "btn_add">Ajouter</string>
+    <string name = "input_placeholder_descibe">Décrivez Votre Tâche</string>
+    <string name = "input_placeholder_date">15–02–2021</string>
+    <string name = "input_placeholder_time">15:00</string>
+    <string name = "e_describe_empty">Décrivez votre tâche ou votre titre</string>
+    <string name="success">Tâche créée avec succès</string>
+    <string name="faild">Échec de la création de la tâche</string>
+    <string name="alertMessage">Êtes-vous sûr de vouloir supprimer</string>
+    <string name="alertTitle">Confirmer</string>
+    <string name="alertDelete">Supprimer</string>
+    <string name="alertCancel">Annuler</string>
+    <string name="alertsuccess">Suppression réussie</string>
+    <string name="alertFiald">Échec de la suppression</string>
+    <string name="btnDelete">Supprimer</string>
+    <string name="btnEdit">Sauvgarder</string>
+    <string name="btnCancel">Annuler</string>
+    <string name="shoose_time">Choisissez l\'heure</string>
+    <string name="shoose_Date">Choisissez la Date</string>
+    <string name="alertUpdateSuccess">Mise à jour réussie</string>
+    <string name="alertUpdateFaild">Echec de la mise à jour</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Do͞oiNG</string>
+    <string name="btn_add">Add</string>
+    <string name="input_placeholder_descibe">Describe Your Task</string>
+    <string name="input_placeholder_date">15 – 02 – 2021</string>
+    <string name="input_placeholder_time">15:00</string>
+    <string name="e_describe_empty">Describe your task, or title</string>
+    <string name="success">Task created successfully</string>
+    <string name="faild">Task creation failed</string>
+    <string name="alertMessage">Are you sure to delete</string>
+    <string name="alertTitle">confirm</string>
+    <string name="alertDelete">Delete</string>
+    <string name="alertCancel">Cancel</string>
+    <string name="alertsuccess">Deleted Successful</string>
+    <string name="alertFiald">Failed to Delete</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnEdit">Save</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="shoose_time">ِChoose Time</string>
+    <string name="shoose_Date">ِChoose Date</string>
+    <string name="alertUpdateSuccess">Update Successful</string>
+    <string name="alertUpdateFaild">Update Faild</string>
+</resources>

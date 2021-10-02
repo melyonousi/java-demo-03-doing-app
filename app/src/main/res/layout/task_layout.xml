@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/raduis_background_item"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/s_describe"
+        style="@style/text_style"
+        android:fontFamily="@font/cairo_bold"
+        android:text="@string/input_placeholder_descibe"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/s_time"
+        style="@style/text_style"
+        android:layout_below="@id/s_describe"
+        android:layout_alignParentEnd="true"
+        android:fontFamily="@font/cairo_light"
+        android:paddingBottom="2dp"
+        android:text="@string/input_placeholder_time" />
+
+    <TextView
+        android:id="@+id/s_date"
+        style="@style/text_style"
+        android:layout_below="@id/s_time"
+        android:layout_alignParentEnd="true"
+        android:fontFamily="@font/cairo_light"
+        android:text="@string/input_placeholder_date" />
+
+</RelativeLayout>
